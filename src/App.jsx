@@ -557,7 +557,7 @@ products that are both functional and engaging.
 </section>
 
       <footer className="text-center py-10 text-white/40 border-t border-white/10">
-        © 2026 Satya Jeevana Abhiram Gullipalli
+        © 2026 Satya Jeevana Abhiram Gullipalli.  Built with React & Tailwind.
       </footer>
 
     </div>
